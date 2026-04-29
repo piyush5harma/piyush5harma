@@ -47,7 +47,7 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/piyush-sharma-949482271)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-sharma-949482271/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Piyush0012565/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/pk001t8hr)
 
